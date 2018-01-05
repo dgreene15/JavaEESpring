@@ -1,0 +1,1 @@
+- To start embedded Tomcat:  mvn tomcat7:run
